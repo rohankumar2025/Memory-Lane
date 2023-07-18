@@ -3,7 +3,7 @@ Memory Lane is a simple Jupyter Notebook that summarizes your long iMessage conv
 
 # Content
 The notebook goes through the process of:
-1. Extracting and formatting your own personal iMessage data from the database stored on your own local machine using Python SQL3 code
+1. Extracting and formatting your own personal iMessage data from the database stored on your own local machine using Python SQL3
 2. Splitting your long conversation into smaller documents using Langchain
 3. Embedding each document as a vector of numbers to feed into Large Language Models like ChatGPT
 4. Using signal processing clustering techniques to decide which group of documents best represents the larger conversation as a whole
